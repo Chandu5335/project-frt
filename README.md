@@ -1,5 +1,5 @@
 # project-frt
-A web application which makes us to a HOUSE easily.
+A web application which makes us to buy a HOUSE easily. We call this management as RealEstate Management System.
 Here I used two azure services.
 1.QnA makers(online chatbot)
 2.Static Web App(To host/deploy my project)
